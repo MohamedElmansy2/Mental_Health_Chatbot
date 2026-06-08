@@ -10,15 +10,15 @@ Every user message passes through four NLP modules before a response is returned
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/screenshot1.jepg" width="700" alt="Chatbot UI — Arabic greeting and mental health question"/>
+  <img src="assets/screenshot1.jpeg" width="700" alt="Chatbot UI — Arabic greeting and mental health question"/>
 </p>
 
 <p align="center">
-  <img src="assets/screenshot2.jepg" width="700" alt="Chatbot UI — English conversation with emotion and intent tags"/>
+  <img src="assets/screenshot2.jpeg" width="700" alt="Chatbot UI — English conversation with emotion and intent tags"/>
 </p>
 
 <p align="center">
-  <img src="assets/screenshot3.jepg" width="700" alt="Chatbot UI — Anxiety question with detailed response"/>
+  <img src="assets/screenshot3.jpeg" width="700" alt="Chatbot UI — Anxiety question with detailed response"/>
 </p>
 
 ---

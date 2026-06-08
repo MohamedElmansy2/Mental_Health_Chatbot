@@ -85,7 +85,7 @@ mental_health_chatbot/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/mental-health-chatbot.git
+git clone https://github.com/MohamedElmansy2/Mental_Health_Chatbot.git
 cd mental-health-chatbot
 ```
 

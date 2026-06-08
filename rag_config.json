@@ -1,0 +1,7 @@
+{
+  "qdrant_url": "https://aed815a3-2ace-4b00-b073-b91aad1b9108.sa-east-1-0.aws.cloud.qdrant.io",
+  "collection_name": "mental_health_qa",
+  "embed_model": "all-MiniLM-L6-v2",
+  "llm_model": "openai/gpt-oss-120b",
+  "top_k": 3
+}
